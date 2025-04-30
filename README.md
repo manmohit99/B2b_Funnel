@@ -76,7 +76,6 @@ All datasets were synthetically generated using Python and the Faker library.
 |--------------------|---------------------------------|
 | `/data/`            | (Optional) CSV files (leads, deals, touchpoints) |
 | `/sql_scripts/`     | SQL scripts used for the analysis |
-| `/schema/`          | SQL table definitions |
 | `README.md`         | Project overview and documentation |
 
 ---
