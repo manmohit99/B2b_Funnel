@@ -37,7 +37,6 @@ All datasets were synthetically generated using Python and the Faker library.
 ## 💠 Tools Used
 
 - PostgreSQL (SQL Analysis)
-- Python (for data simulation)
 - GitHub (Version Control)
 
 ---
